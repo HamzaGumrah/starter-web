@@ -5,7 +5,7 @@
 	Hamza , Mustafa , Nil
     <name> -- <role> -- <twitter>
 
-# THANKSaaa
+# THANK
     <name>
 
 # TECHNOLOGY COLOPHON
