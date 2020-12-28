@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-	Hamza , Mustafa , 
+	Hamza , Mustafa , Nil
     <name> -- <role> -- <twitter>
 
 # THANKS
