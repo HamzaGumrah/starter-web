@@ -5,8 +5,7 @@
 	Hamza , Mustafa , 
     <name> -- <role> -- <twitter>
 
-# THANKS
-
+# THANKSdsadsadsa
     <name>
 
 # TECHNOLOGY COLOPHON
