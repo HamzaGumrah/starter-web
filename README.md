@@ -17,4 +17,4 @@ sample project , sdasdsadasdas
 ##Buda benden
 Adding some text again again
 ###Copy Right
-copy right to sdmlsadmsla
+copy right to Hamza
