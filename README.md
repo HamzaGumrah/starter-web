@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding line for rebasing , more changes from myfeature branch 
-
+Emergency fix after stash
 ## Purpose
 
 Sample website with plenty of files for demos
